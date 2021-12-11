@@ -1,0 +1,23 @@
+.card-ucamp{
+    width: 20em;
+    text-align: center;
+    display: inline-block;
+    margin: 2em;
+    height: 25em;
+    vertical-align: top;
+}
+.footer-copyright{
+    text-align: center;
+    font-weight: 600;
+}
+.card-image{
+    width: 100%;
+}
+.container-ucamp {
+    text-align: center;
+    background-color: beige;
+}
+.card-header-ucamp {
+    font-weight: 600;
+    font-size: large;
+}
